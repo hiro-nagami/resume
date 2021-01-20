@@ -42,7 +42,7 @@
 - React/Redux/TypeScriptベースのSPAアプリの開発
 - WordPressのオンラインメディアをフロント(React/Redux)とAPI(Laravel)でリプレイス
 - 個人開発でReact/TypeScript/Firebaseを使った投稿型サービスの開発
-- AWS上のサーバー構成・構築やDB構成
+- AWS上のサーバー構成・構築やDB設計
 
 ## チームリード
 - メンバーMTGの定期開催・SDKメンバーの課題を整理するフローの導入
