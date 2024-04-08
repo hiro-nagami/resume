@@ -31,7 +31,7 @@
 これらのことを意識しながらプロダクトを設計していく必要があると考える。
 
 ### スキル
-- プロジェクト・プロダクトマネジメント
+- PM, PdM
   - ユーザーストーリー・KPI作成
   - ヒアリング及び、要件定義
   - ステークホルダーとの合意形成
@@ -41,31 +41,32 @@
   - タスク作成・アサイン
   - エスカレーション対応、割り振り
 - 開発チームの構築
+  - オンボーディングの構築
   - チームの課題整理と解決方針の提案
   - メンバーの育成・メンタリング
   - 開発ルールやフローの構築
-  - オンボーディングの構築
   - MTGファシリテーション
 - 開発技術
+  - フロントエンド技術選定・開発
+    - React, Nextjs, TypeScript
   - バックエンド技術選定・開発
-    - Nodejs, Ruby, Laravel, TypeScript
-    - Firebase, AWS, Heroku
+    - Nodejs, Ruby, Laravel
+    - Firebase, AWS, Google Cloud Platform, Heroku
     - Redis, MySQL, PostgresSQL
     - API開発 (GraphQL, REST)
     - スケジューラー, ワーカー
-  - フロントエンド技術選定・開発
-    - React, Nextjs, TypeScript
   - モバイルアプリ技術選定・開発
     - Swift/SwiftUI, Kotlin/Jet, Flutter
     - SDK (Objective-C, Java) 開発
-  - コードレビュー
-  - テスト駆動開発
-  - CD/CIの導入
-  - ディストリビューション環境構築
-  - メトリクスの導入
-    - API(GraphQL)パフォーマンス測定
-    - DBパフォーマンス測定
-    - ロギング通知
+  - その他
+    - コードレビュー
+    - テスト駆動開発
+    - CD/CIの導入
+    - ディストリビューション環境構築
+    - メトリクスの導入
+      - API(GraphQL)パフォーマンス測定
+      - DBパフォーマンス測定
+      - ロギング通知
 
 ### 実績
 - メッセンジャーアプリのiOSアプリ開発
@@ -78,11 +79,13 @@
 
 ## 経歴
 
-1. 会社設立。事業戦略立案、企画、マネジメント、開発（2021/05 ~ )
-2. [アルバイト人材募集・管理システムの開発・マネジメント (2021/02 ~ 2022/04)](works/work-worker-management.md)
-3. [toB,toC向けMAツール (2018/09 ~ 2020/08)](works/work-marketing-sdk.md)
-4. [カスタマーサポートツール開発 (2018/02 ~ 2018/08)](works/work-chatbot.md)
-5. [Hyper Ledger Fubricブロックチェーン事業 (2017/03 ~ 2018/01)](works/work-blockchian.md)
-6. [映画WEBメディアサービス (2015/08 ~ 2017/02)](works/work-movie-media.md)
-7. [大規模メッセージングアプリ及び、ビジネスアカウント専用アプリの開発 (2014/06 ~ 2016/01)](works/work-messenger.md)
-8. [新規事業立ち上げ (2013/04 ~ 2014/05)](works/work-first-startup.md)
+1. [新規事業立ち上げ (2013/04 ~ 2014/05)](works/work-first-startup.md)
+2. [大規模メッセージングアプリ及び、ビジネスアカウント専用アプリの開発支援 (2014/06 ~ 2016/01)](works/work-messenger.md)
+3. [映画WEBメディアサービス支援 (2015/08 ~ 2017/02)](works/work-movie-media.md)
+4. [Hyper Ledger Fubricブロックチェーン事業支援 (2017/03 ~ 2018/01)](works/work-blockchian.md)
+5. [カスタマーサポートツール開発支援 (2018/02 ~ 2018/08)](works/work-chatbot.md)
+6. [toB,toC向けMAツール支援 (2018/09 ~ 2020/08)](works/work-marketing-sdk.md)
+7. [アルバイト人材募集・管理システムの開発支援・マネジメント (2021/02 ~ 2022/04)](works/work-worker-management.md)
+8. 法人設立。事業戦略立案、企画、マネジメント、開発（2021/05 ~ )
+9. データ分析基盤ツール開発支援（2023/02 ~ 2023/08)
+10. AI新規事業開発支援、ERP開発支援（2023/10 ~ )
